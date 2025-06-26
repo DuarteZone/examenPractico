@@ -1,4 +1,5 @@
-##Task Manager CLI - PHP
+## Evaluar habilidades básicas de modelado, programación orientada a objetos en PHP, manejo de
+lógica de negocio y buenas prácticas.
 
 
 
